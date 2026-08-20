@@ -232,10 +232,6 @@ $BITALIC $BBOLD Note:$EBOLD To solve this problem, you only need to compute eige
 In fact, it is enough to just compute whether the eigenvalues are real or complex
 and positive or negative. $EITALIC
 
-$PAR
-$BITALIC $BBOLD Book: $EBOLD
-\{ htmlLink("https://www.jirka.org/diffyqs/html/sec_twodimaut.html", "Section 3.5 of Notes on Diffy Qs") \}
-$EITALIC
 END_TEXT
 Context()->normalStrings;
 

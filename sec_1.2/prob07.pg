@@ -84,10 +84,6 @@ So Picard's theorem says that the solution to
 \( y' = f(x,y) \) 
 near \( y(0) = 0 \) 
 \{ $answer[4]->menu() \} .
-$PAR
-$BITALIC $BBOLD Book: $EBOLD
-\{ htmlLink("https://www.jirka.org/diffyqs/html/slopefields_section.html", "Section 1.2 of Notes on Diffy Qs") \}
-$EITALIC
 END_TEXT
 Context()->normalStrings;
 

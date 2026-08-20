@@ -256,10 +256,6 @@ $PAR
 $BR
 \{ $mc->print_a() \}
 
-$PAR
-$BITALIC $BBOLD Book: $EBOLD
-\{ htmlLink("https://www.jirka.org/diffyqs/html/sec_twodimaut.html", "Section 3.5 of Notes on Diffy Qs") \}
-$EITALIC
 END_TEXT
 Context()->normalStrings;
 

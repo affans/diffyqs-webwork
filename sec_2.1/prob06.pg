@@ -78,10 +78,6 @@ Determine which of the following pairs of functions are linearly independent.
 $PAR 
  \{ $tf -> print_q \}
 
-$PAR
-$BITALIC $BBOLD Book: $EBOLD
-\{ htmlLink("https://www.jirka.org/diffyqs/html/solinear_section.html", "Section 2.1 of Notes on Diffy Qs") \}
-$EITALIC
 END_TEXT
 
 ###########################################################

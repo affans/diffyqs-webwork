@@ -60,9 +60,6 @@ Expand [:f(x) = [$c2] x^2 + [$c1] x + [$c0] :] as a power series around [` x_0 =
 [___________]{"$a2"}{15}
 [` {(x-[$x0])}^2 `]
 [`\quad`] [@ AnswerFormatHelp("numbers") @]*
-
-_*Book:*
-[@ htmlLink("https://www.jirka.org/diffyqs/html/powerseries_section.html", "Section 7.1 of Notes on Diffy Qs") @]*_
 END_PGML
 
 #################################################

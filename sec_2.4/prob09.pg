@@ -71,9 +71,6 @@ At what time does it hit the rest position:
 
 [____________]{"$initx/$extra"}{20} seconds
 [@ $SPACE @]* [@ AnswerFormatHelp("numbers") @]*
-
-_*Book:*
-[@ htmlLink("https://www.jirka.org/diffyqs/html/sec_mv.html", "Section 2.4 of Notes on Diffy Qs") @]*_
 END_PGML
 
 ##############################################################

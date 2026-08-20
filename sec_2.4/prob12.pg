@@ -65,9 +65,6 @@ frequency
 meters.
 [`\quad`]
 [@ AnswerFormatHelp("numbers") @]*
-
-_*Book:*
-[@ htmlLink("https://www.jirka.org/diffyqs/html/sec_mv.html", "Section 2.4 of Notes on Diffy Qs") @]*_
 END_PGML
 
 ##############################################################

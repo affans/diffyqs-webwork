@@ -72,10 +72,6 @@ Enter your answers so that
 \(f_1, f_2\) are normalized with their value at \(x = 0\) equal to
 1.
 
-$PAR
-$BITALIC $BBOLD Book: $EBOLD
-\{ htmlLink("https://www.jirka.org/diffyqs/html/sec_ccsol.html", "Section 2.2 of Notes on Diffy Qs") \}
-$EITALIC
 END_TEXT
 Context()->normalStrings;
 

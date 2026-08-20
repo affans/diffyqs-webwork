@@ -79,9 +79,6 @@ Compute:
 [`a_4 = `]
 [___________]{"5*$c5"}{15}
 [@ AnswerFormatHelp("numbers") @]*
-
-_*Book:*
-[@ htmlLink("https://www.jirka.org/diffyqs/html/powerseries_section.html", "Section 7.1 of Notes on Diffy Qs") @]*_
 END_PGML
 
 #####################################################

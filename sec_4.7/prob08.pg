@@ -90,9 +90,6 @@ Consider the initial conditions
 [`u_t(x,0) = [$c] \sin(\pi x) .`]
 
 The solution is [_______]{"$b \sin(\pi x) + $c t \sin(\pi x)"}{50}
-
-_*Book:*
-[@ htmlLink("https://www.jirka.org/diffyqs/html/we_section.html", "Section 4.7 of Notes on Diffy Qs") @]*_
 END_PGML
 
 ############################

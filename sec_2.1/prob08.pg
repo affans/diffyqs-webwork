@@ -76,9 +76,6 @@ The two functions [:f(x):] and [:g(x):] are linearly dependent.  Fill in the mis
 [:f([$xd]) = [$fd]:]
 
 [:g([$xd]) = :] [___________]{"$gd"} [@ AnswerFormatHelp("numbers") @]*  
-
-_*Book:*
-[@ htmlLink("https://www.jirka.org/diffyqs/html/solinear_section.html", "Section 2.1 of Notes on Diffy Qs") @]*_
 END_PGML
 
 ##############################################################

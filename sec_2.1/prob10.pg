@@ -61,9 +61,6 @@ you will notice that the exponentials can be cancelled out leaving you two
 equations for [`A`] and [`B`] that can be easily solved.
 You should check your work, by plugging the solutions into
 the equation you created.
-
-_*Book:*
-[@ htmlLink("https://www.jirka.org/diffyqs/html/solinear_section.html", "Section 2.1 of Notes on Diffy Qs") @]*_
 END_PGML
 
 ##############################################################

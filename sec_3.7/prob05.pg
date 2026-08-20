@@ -41,10 +41,6 @@ $PAR
 \(k=\) \{ans_rule(20)\}
 \{ AnswerFormatHelp("numbers") \}
 
-$PAR
-$BITALIC $BBOLD Book: $EBOLD
-\{ htmlLink("https://www.jirka.org/diffyqs/html/sec_multeigen.html", "Section 3.7 of Notes on Diffy Qs") \}
-$EITALIC
 END_TEXT
 Context()->normalStrings;
 

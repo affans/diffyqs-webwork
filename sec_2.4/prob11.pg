@@ -78,9 +78,6 @@ _*Hint:* The amplitude is [`C = \sqrt{A^2+B^2}`] where
 [`A`] and [`B`] come from the form of the solution [`x(t) = A \cos(\omega_0 t) + B\sin(\omega_0 t) .`]
 These constants [`A`] and [`B`] are easy to compute in terms of
 the initial conditions [`x(0)`] and [`x'(0) .`]_
-
-_*Book:*
-[@ htmlLink("https://www.jirka.org/diffyqs/html/sec_mv.html", "Section 2.4 of Notes on Diffy Qs") @]*_
 END_PGML
 
 ##############################################################
